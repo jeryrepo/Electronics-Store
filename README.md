@@ -7,15 +7,15 @@ To examine the sales history of the store and extract insights on its performanc
 This project involves the analysis of sales data from an electronics store to derive valuable insights and make data-driven decisions. The dataset contains information about order id, order date, price, quantity ordered and purchase address. The analysis is conducted using Python, specifically utilizing the Pandas library for data manipulation and Matplotlib for data visualization.
 
 # Key Techniques Used:
-Data Cleaning and Preprocessing: Handled missing data, created new features, and formatted columns for analysis.
+**Data Cleaning and Preprocessing:** Handled missing data, created new features, and formatted columns for analysis.
 
-Data Visualization: Utilized Matplotlib to create insightful visualizations, such as bar charts and line plots.
+**Data Visualization:** Utilized Matplotlib to create insightful visualizations, such as bar charts and line plots.
 
-Grouping and Aggregation: Employed Pandas to group data by specific attributes and perform aggregate operations.
+**Grouping and Aggregation:** Employed Pandas to group data by specific attributes and perform aggregate operations.
 
-Product Combination Analysis: Used Python's combinations function to identify frequently co-purchased products.
+**Product Combination Analysis:** Used Python's combinations function to identify frequently co-purchased products.
 
-Insightful Visualizations: Enhanced analysis results with visually appealing charts to convey information effectively.
+**Insightful Visualizations:** Enhanced analysis results with visually appealing charts to convey information effectively.
 
 # Technology:
 Python, Pandas, Matplotlib.
